@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <!-- recycler view icin. her bir liste elemanı için yapıyoruz
+        kesinlikle kullanilmasi gereklidir
+        for recycler view. i have a for each list element
+    -->
+    <TextView
+        android:id="@+id/recyclerViewTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deneme_yaz_s"
+        android:textColor="@color/black"
+        android:layout_margin="5dp"
+        android:textSize="24sp"/>
+
+</LinearLayout>

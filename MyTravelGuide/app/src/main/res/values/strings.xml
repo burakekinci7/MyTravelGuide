@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTravelGuide</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="deneme_yaz_s">Deneme yazısı</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="place_holder">Place Holder</string>
+</resources>
